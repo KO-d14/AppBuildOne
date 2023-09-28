@@ -16,6 +16,8 @@
 		6318B3892AC277A200C44D03 /* AppBuildOneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6318B3882AC277A200C44D03 /* AppBuildOneTests.swift */; };
 		6318B3932AC277A200C44D03 /* AppBuildOneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6318B3922AC277A200C44D03 /* AppBuildOneUITests.swift */; };
 		6318B3952AC277A200C44D03 /* AppBuildOneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6318B3942AC277A200C44D03 /* AppBuildOneUITestsLaunchTests.swift */; };
+		63AD2D0F2AC5153800A32F7A /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AD2D0E2AC5153800A32F7A /* firstViewController.swift */; };
+		63C67F0D2AC542F30035552E /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C67F0C2AC542F30035552E /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		6318B38E2AC277A200C44D03 /* AppBuildOneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppBuildOneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6318B3922AC277A200C44D03 /* AppBuildOneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppBuildOneUITests.swift; sourceTree = "<group>"; };
 		6318B3942AC277A200C44D03 /* AppBuildOneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppBuildOneUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		63AD2D0E2AC5153800A32F7A /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
+		63C67F0C2AC542F30035552E /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				6318B3732AC2779E00C44D03 /* SceneDelegate.swift */,
 				6318B3752AC2779E00C44D03 /* ViewController.swift */,
 				6318B3772AC2779E00C44D03 /* Main.storyboard */,
+				63C67F0C2AC542F30035552E /* secondViewController.swift */,
+				63AD2D0E2AC5153800A32F7A /* firstViewController.swift */,
 				6318B37A2AC277A200C44D03 /* Assets.xcassets */,
 				6318B37C2AC277A200C44D03 /* LaunchScreen.storyboard */,
 				6318B37F2AC277A200C44D03 /* Info.plist */,
@@ -261,6 +267,8 @@
 				6318B3762AC2779E00C44D03 /* ViewController.swift in Sources */,
 				6318B3722AC2779E00C44D03 /* AppDelegate.swift in Sources */,
 				6318B3742AC2779E00C44D03 /* SceneDelegate.swift in Sources */,
+				63C67F0D2AC542F30035552E /* secondViewController.swift in Sources */,
+				63AD2D0F2AC5153800A32F7A /* firstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
